@@ -44,14 +44,4 @@ This coursework demonstrates a variety of **database system design concepts**, i
 - **Normalisation & Redundancy Reduction**  
 - **Database Integrity & Constraints**  
 
----
 
-## How to Run  
-
-This coursework is **documentation- and design-focused**, rather than a runnable software application.  
-
-To review the project:  
-
-1. Clone this repository:  
-   ```bash
-   git clone https://github.com/Mgilgil/DatabaseSystemsCoursework.git
